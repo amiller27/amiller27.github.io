@@ -127,8 +127,11 @@
   }
 
   img {
-    max-width: 110px;
-    border-radius: 50%;
+    max-width: 175px;
+    border-bottom-right-radius: 18% 12%;
+    border-top-right-radius: 18% 12%;
+    border-bottom-left-radius: 18% 12%;
+    border-top-left-radius: 18% 12%;
 
     @include breakpoint($large) {
       padding: 5px;
