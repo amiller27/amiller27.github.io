@@ -20,7 +20,7 @@ title                    : "Aaron Miller"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aaron Miller"
-description              : "MS Robotics Student at Carnegie Mellon"
+description              : "Autonomy Engineer @ Skydio"
 url                      : "http://aaronmiller.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "amiller27/amiller27.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Aaron Miller"
   avatar           : "/assets/images/miller_aaron_2018.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master's Student in the Robotics Institute at Carnegie Mellon"
-  location         : "Pittsburgh, PA, USA"
-  email            : "aaronmiller _at_ cmu.edu"
+  bio              : "Autonomy Engineer @ Skydio, CMU MSR Alum"
+  location         : "Bay Area, CA, USA"
+  # email            : "aaronmiller _at_ cmu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
